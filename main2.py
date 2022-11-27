@@ -1,4 +1,8 @@
-imort pandas as pd
+# https://colab.research.google.com/drive/1DPUjvtpDC3PPKALKxn5xy48WqVUo3jRA
+
+
+
+import pandas as pd
 import numpy as np
 import statsmodels
 import warnings
